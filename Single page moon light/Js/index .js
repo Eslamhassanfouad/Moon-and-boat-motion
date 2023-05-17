@@ -1,0 +1,6 @@
+let boat=document.getElementsByClassName('boat')
+let moon=document.getElementsByClassName('moon')
+let stars=document.getElementsByClassName('stars')
+let river=document.getElementsByClassName('river')
+let mountain=document.getElementsByClassName('mountain')
+let fadedMountain=document.getElementsByClassName('faded')
